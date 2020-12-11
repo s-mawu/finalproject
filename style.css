@@ -1,0 +1,22 @@
+element.style {
+    display: block;
+}
+user agent stylesheet
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+user agent stylesheet
+center {
+    text-align: -webkit-center;
+}
+body {
+    background: linear-gradient(to left, #000050, #167792);
+    color: white;
+    font-family: 'Noto Sans KR', sans-serif,'Lobster', cursive,'Oswald', sans-serif;
+}
